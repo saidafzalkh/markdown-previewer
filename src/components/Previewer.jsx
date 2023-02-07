@@ -18,7 +18,7 @@ const Previewer = (props) => {
       <ul>
         <li>All your text will be saved on local storage</li>
         <li>Preview style similar with github markdown</li>
-        <li>Support AutoDetect code language and highlight</li>
+        <li>Support auto-detecting programming languages</li>
       </ul>` }}
     >
     </PreviewerWrapper>
