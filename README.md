@@ -4,7 +4,7 @@
 
 Here You can write your README.md file with a preview and download
 
-###  Feature
+###  Features
 
 * All your text will be saved on local storage
 * Preview style similar to GitHub markdown

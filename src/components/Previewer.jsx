@@ -14,11 +14,11 @@ const Previewer = (props) => {
       <p>
         Here You can write your README.md file with preview and download
       </p>
-      <h4>Feathers</h4>
+      <h4>Features</h4>
       <ul>
         <li>All your text will be saved on local storage</li>
         <li>Preview style similar with github markdown</li>
-        <li>Support auto-detecting programming languages</li>
+        <li>Support auto-detecting and highlighting programming languages</li>
       </ul>` }}
     >
     </PreviewerWrapper>
