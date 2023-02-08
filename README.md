@@ -8,7 +8,7 @@ Here You can write your README.md file with a preview and download
 
 * All your text will be saved on local storage
 * Preview style similar to GitHub markdown
-* Support auto-detecting programming languages
+* Support auto-detecting and highlighting programming languages
 
 ### Links
 
