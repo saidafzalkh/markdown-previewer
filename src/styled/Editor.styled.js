@@ -2,24 +2,20 @@ import styled from "styled-components";
 
 export const EditorWrapper = styled.section`
   width: 40vw;
-  background-color: #222;
   color: #fff;
+  background-color: #1A1B26;
   overflow-y: auto;
   display: flex;
   flex-direction: column;
 `
 
-export const EditorArea = styled.textarea`
+export const EditorArea = styled.div`
   box-sizing: border-box;
   display: inline-block;
-  resize: none;
-  outline: none;
-  border: none;
-  height: 90%;
+  height: 630px;
   margin: 0;
-  padding: 2rem;
   background-color: transparent;
-  color: #fff;
+  overflow-y: scroll;
 `
 
 export const EditorHeader = styled.header`
